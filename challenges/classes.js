@@ -42,3 +42,5 @@ const cube = new CubeMaker({
 console.log(cube)
 console.log(cube.volume())
 console.log(cube.surfaceArea())
+
+//MVP complete
