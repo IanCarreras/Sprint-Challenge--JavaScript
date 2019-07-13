@@ -1,5 +1,4 @@
 // 1. Copy and paste your prototype in here and refactor into class syntax.
-
 class CuboidMaker2 {
     constructor(props) {
         this.length = props.length
